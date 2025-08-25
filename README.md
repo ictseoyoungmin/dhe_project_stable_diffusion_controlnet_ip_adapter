@@ -35,3 +35,48 @@
 ![gen_face](figs/out_gen_face_2.png)
 
 
+## References
+
+### gen_face
+```bibtex
+@misc{zhang2023adding, 
+  title={Adding Conditional Control to Text-to-Image Diffusion Models}, 
+  author={Lvmin Zhang and Maneesh Agrawala}, 
+  year={2023}, 
+  eprint={2302.05543}, 
+  archivePrefix={arXiv}, 
+  primaryClass={cs.CV} 
+}
+
+@misc{rombach2021highresolution,
+  title={High-Resolution Image Synthesis with Latent Diffusion Models}, 
+  author={Robin Rombach and Andreas Blattmann and Dominik Lorenz and Patrick Esser and Björn Ommer},
+  year={2021},
+  eprint={2112.10752},
+  archivePrefix={arXiv},
+  primaryClass={cs.CV}
+}
+```
+
+### gen_object, mod_facial, gen_human
+```bibtex
+@misc{podell2023sdxlimprovinglatentdiffusion,
+  title={SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis}, 
+  author={Dustin Podell and Zion English and Kyle Lacey and Andreas Blattmann and Tim Dockhorn and Jonas Müller and Joe Penna and Robin Rombach},
+  year={2023},
+  eprint={2307.01952},
+  archivePrefix={arXiv},
+  primaryClass={cs.CV},
+  url={https://arxiv.org/abs/2307.01952}, 
+}
+
+@misc{ye2023ipadaptertextcompatibleimage,
+  title={IP-Adapter: Text Compatible Image Prompt Adapter for Text-to-Image Diffusion Models}, 
+  author={Hu Ye and Jun Zhang and Sibo Liu and Xiao Han and Wei Yang},
+  year={2023},
+  eprint={2308.06721},
+  archivePrefix={arXiv},
+  primaryClass={cs.CV},
+  url={https://arxiv.org/abs/2308.06721}, 
+}
+```
