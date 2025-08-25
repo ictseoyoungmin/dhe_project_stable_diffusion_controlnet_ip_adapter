@@ -1,0 +1,11 @@
+[CORE]
+an adult human character with semi-realistic proportions, clean lines, colors from references, kawaii full body shot, standing pose, casual clothing, anime-style full body shot, adult body proportions, detailed legs and arms, stylized cartoon facial features, white background, mobile game asset style, soft shadows, centered compositiondetailed eyes from references
+
+[USER]
+
+
+[FUSED]
+an adult human character with semi-realistic proportions, clean lines, colors from references, kawaii full body shot, standing pose, casual clothing, anime-style full body shot, adult body proportions, detailed legs and arms, stylized cartoon facial features, white background, mobile game asset style, soft shadows, centered compositiondetailed eyes from references
+
+[NEG]
+children, child, kid, unrealistic proportions, distorted anatomy, cartoonish exaggerationblurry, low quality, distorted face, extra limbs
